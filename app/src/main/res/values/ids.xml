@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextName" type="id">email</item>
+    <item name="editTextEmail" type="id">email</item>
+    <item name="editTextPassword" type="id">password</item>
+    <item name="editTextContact" type="id">textcontent</item>
+    <item name="editTextAddress" type="id">Address</item>
+    <item name="registerButton" type="id">Button</item>
+</resources>
